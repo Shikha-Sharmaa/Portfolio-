@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        
+    
+    <header>
+        <h1>MY PORTFOLIO</h1>
+    </header>
+    <main>
+    <img src="https://lh4.googleusercontent.com/RG8cm8NR0kPHZBMuzlzJU7TtPLTJzyjykJQJ_skC5_9FdSjLVYDJyB0FuxTho_O_ZM99stNieGC685Db0kUbu-BGDrjAGv8MQRyqBe_lVjO0NoKr1AB1_nNeGQuCsISCag=w1280"
+    <p><pre><b><big>Hi, I'm Shikha Sharma.
+    </big></b></pre></p>
+    <br>
+    <section>
+        <p><B><big>About Me:</big>
+
+        </B>
+        Hello there! I'm currently diving into the world of web development while pursuing my Bachelor of Computer Applications (BCA) at Zakir Hussain College. 
+    
+    
+      
+       <br>
+       <section>
+        <P><b>Education:</b>
+        <uL><li>I completed my 10th grade from May Flower School, Digha, affiliated with the Central Board of Secondary Education (CBSE)</li>
+
+        <li>My 12th grade from St. Raza International School, also affiliated with the CBSE board.</li>
+        <LI>Bachelor of Computer Applications (BCA) 1st Year, Zakir Hussain College</li></uL></P></section>
+        <br>
+        <section><p><b>Achievements and Awards:</b>
+
+           <ul><li> Participated in Vigyan Mahotsav and received a certificate of participation.</li>
+         
+          <li>Participated in an Entrepreneurship Program and received a certificate of participation. </li>
+         
+         <li> Participated in Voter's Day event.</li>
+         
+         <li> Received numerous merit awards for academic excellence.</li></p></section>
+        </ul>
+        <br>
+          <section><p><B>  Future Career Goals:</B>
+
+            My passion lies in creating innovative web solutions that enhance user experiences. In the future, I aspire to become a full-fledged Web                Developer, contributing to impactful projects that make a difference in people's lives.
+      
+              </p></section>
+              <br>
+              <section>
+                <P>
+                    <B>Contact Information:</B>
+
+                Feel free to connect with me via email at<a href="shikhaasharmaa9525@gmail.com "> shikhaasharmaa9525@gmail.com</a> or through my LinkedIn profile:<a href="//www.linkedin.com/in/shikha-sharmaa" >//www.linkedin.com/in/shikha-sharmaa</a></P></section>
+                <br>
+                <section>
+                    <big>
+                        <pre><b>Achievement  Showcase</b></big>
+                <img src="https://lh3.googleusercontent.com/wcB-hH9fTmEyLswMe_HAPODHUxh6ptZyJGyYil3eDRW9inHHJkUEM1QlOPCjXLrWdH9WbCCTGkPKZFbM6LUjBXPYcorWo--M4aEWeA7Ytvj8i4DwD_kt_sDzNVmVbg8mEg=w1280"height=200px>
+                
+                <img src="https://lh3.googleusercontent.com/P7FnzVsRxRZ-6KUjjyPlRknIrBDDYYipowD4JjGZoxe9Dpn-4k_SkxvPPbJC61At-yLvWtmWSJn9wxK_c-fTbdmc57V-czKodHTzm7om_XwiQP0s7kQEGSME_obtu-vdmQ=w1280"height=200px>
+                                <br>
+                <img src="https://lh6.googleusercontent.com/E_VuOPMBiaFZjJPeJLXmTmJ_rA208WDLwyrOsAxOLCXxIRACnrfOUwq7MbIe81JFiQU96NZ4DQhCCY1GOtT2rIw=w1280"height=200px>
+
+            
+            
+            </pre>
+            
+            </section>
+            </main>
+
+            <footer>
+                Get in touch at  <a href="shikhaasharmaa9525@gmail.com">gmail,</a><br>
+                It's the possibility of having a dream  come true that makes life intresting .
+
+
+            </footer>
+        </div>
+</body>
+</html>
